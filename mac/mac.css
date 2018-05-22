@@ -1,7 +1,7 @@
 .content-image{
     text-align: center; 
     width: 100%; 
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.877)
  }
  .content-image img{
     margin: 0 auto;
