@@ -25,6 +25,7 @@
 		background: rgba(2,2,2,1);
 	}
 		.nav img {
+			display: none;
 			width: 40px;
 			height: 40px;
 		}

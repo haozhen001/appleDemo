@@ -11,8 +11,6 @@ $(function(){
         }else if(i==3){
             $(".lun").css({"background-color":"#efeeee"});
         }
-        //隐藏img
-        $(".lun >img").hide();
         //隐藏标题
         $(".div").hide();
         //动画效果
