@@ -6,3 +6,25 @@
  .content-image img{
     margin: 0 auto;
  }
+ .product-image {
+    width: 100%;  
+    height: 500px;
+    background: url(images/hero_large.jpg) no-repeat  center bottom ;
+    
+}
+.fuproduct-image{
+    transform: scale(0.8);
+    background: url(images/ar_apps_large.jpg) no-repeat  center;
+    width: 60%; 
+    height: 300px; 
+    background-size:contain;
+    border-radius: 21px 21px 0 0;
+}
+.fuproduct-image2{
+    transform: scale(1);
+    background: url(images/next_gen_ar_1_small.jpg) no-repeat  center;
+    width: 40%; 
+    height: 300px; 
+    background-size:contain;
+    border-radius: 21px 21px 0 0;
+}
